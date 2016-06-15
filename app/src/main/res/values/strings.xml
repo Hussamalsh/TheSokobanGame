@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheSokobanGame</string>
+
+    <string name="newGame_label" >New Game</string>
+    <string name="exitGame_label" >Exit Game</string>
+    <string name="Moves_counter">Moves : </string>
+</resources>
